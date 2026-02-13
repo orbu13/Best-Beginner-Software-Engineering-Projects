@@ -1,18 +1,16 @@
-# Best-Beginner-Software-Engineering-Projects
+# 🚀 Software Engineering Portfolio
 
+A curated collection of production-style projects demonstrating full-stack development, API integration, application architecture, data handling, and modern software engineering practices.
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [JB Connect — Full-Stack Management System](https://github.com/orbu13/JhonBryce-fullStack-finalProject) | Built a production-ready full-stack web application from end to end, integrating a dynamic frontend, scalable backend, and structured database to deliver a secure, high-performance user experience. Demonstrates strong expertise in client-server architecture, RESTful APIs, authentication, and clean, maintainable code. |
-| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-<!--
-| 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 10| [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
--->
-
+| 1 | [JB Connect — Full-Stack Web Application](https://github.com/orbu13/JhonBryce-fullStack-finalProject) | Engineered a production-style full-stack application integrating a dynamic frontend, secure backend, and structured database. Demonstrates strong expertise in client-server architecture, RESTful APIs, authentication, and scalable system design. |
+| 2 | [PetCare Platform — Full-Stack Application](https://github.com/orbu13/Preplay-front-backEND_petApplication) | Developed a full-stack web application with clear frontend-backend separation, enabling efficient data flow and maintainable architecture. Highlights strong understanding of REST APIs and end-to-end software development. |
+| 3 | [Countries Insights — API Data Visualization App](https://github.com/orbu13/Preplay-CountriesAPI-chart) | Built an API-powered application that transforms real-time country data into dynamic visual insights. Demonstrates asynchronous JavaScript, data processing, and browser-based analytics. |
+| 4 | [CoinList — Interactive Crypto Dashboard](https://github.com/orbu13/CoinList-SchoolProject-ForGalAmoyal) | Created a responsive cryptocurrency dashboard that consumes external APIs to display real-time data through an interactive interface. Showcases asynchronous programming and modern frontend practices. |
+| 5 | [MovieSeat — Interactive Booking System](https://github.com/orbu13/Udemy-MovieSeatBokking) | Designed an interactive seat booking experience with real-time selection, dynamic pricing, and persistent user state. Demonstrates strong frontend engineering and event-driven architecture. |
+| 6 | [NewsFetch — Real-Time API Integration App](https://github.com/orbu13/Preplay-newsFetching_API) | Engineered an application that retrieves and renders live news data from external APIs. Demonstrates API consumption, asynchronous workflows, and structured data handling. |
+| 7 | [GuessTheWord — Interactive JavaScript Game](https://github.com/orbu13/Preplay-guessTheWord_API) | Developed a logic-driven browser game featuring structured data handling, real-time feedback, and application state management. Highlights strong programming fundamentals and application logic. |
+| 8 | [RandomUser Explorer — API Data Application](https://github.com/orbu13/Preplay-randomUserGenerator_fetching) | Built an application that fetches and displays user data from an external API, reinforcing skills in asynchronous JavaScript and dynamic content rendering. |
+| 9 | [StarWars Data Explorer — API Application](https://github.com/orbu13/Preplay-starWar_API) | Developed an API-driven application that retrieves and organizes Star Wars universe data, demonstrating structured data consumption and frontend rendering. |
+| 10 | [Users API — Backend Data Service](https://github.com/orbu13/JhonBryce-users_API) | Built a backend-focused API for managing user data, highlighting server-side development, routing, and structured data handling within a RESTful architecture. |
