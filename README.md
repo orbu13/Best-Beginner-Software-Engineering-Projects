@@ -1,16 +1,20 @@
-# 🚀 Software Engineering Portfolio
+# Software Engineering Portfolio
 
-A curated collection of production-style projects demonstrating full-stack development, API integration, application architecture, data handling, and modern software engineering practices.
+Collection of full-stack and frontend projects demonstrating application architecture, API integration, client-server communication, and modern JavaScript development practices.
 
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | [JB Connect — Full-Stack Web Application](https://github.com/orbu13/JhonBryce-fullStack-finalProject) | Engineered a production-style full-stack application integrating a dynamic frontend, secure backend, and structured database. Demonstrates strong expertise in client-server architecture, RESTful APIs, authentication, and scalable system design. |
-| 2 | [PetCare Platform — Full-Stack Application](https://github.com/orbu13/Preplay-front-backEND_petApplication) | Developed a full-stack web application with clear frontend-backend separation, enabling efficient data flow and maintainable architecture. Highlights strong understanding of REST APIs and end-to-end software development. |
-| 3 | [Countries Insights — API Data Visualization App](https://github.com/orbu13/Preplay-CountriesAPI-chart) | Built an API-powered application that transforms real-time country data into dynamic visual insights. Demonstrates asynchronous JavaScript, data processing, and browser-based analytics. |
-| 4 | [CoinList — Interactive Crypto Dashboard](https://github.com/orbu13/CoinList-SchoolProject-ForGalAmoyal) | Created a responsive cryptocurrency dashboard that consumes external APIs to display real-time data through an interactive interface. Showcases asynchronous programming and modern frontend practices. |
-| 5 | [MovieSeat — Interactive Booking System](https://github.com/orbu13/Udemy-MovieSeatBokking) | Designed an interactive seat booking experience with real-time selection, dynamic pricing, and persistent user state. Demonstrates strong frontend engineering and event-driven architecture. |
-| 6 | [NewsFetch — Real-Time API Integration App](https://github.com/orbu13/Prepley-newsFetching_API) | Engineered an application that retrieves and renders live news data from external APIs. Demonstrates API consumption, asynchronous workflows, structured data handling, and dynamic content rendering. |
-| 7 | [GuessTheWord — Interactive JavaScript Game](https://github.com/orbu13/Preplay-guessTheWord_API) | Developed a logic-driven browser game featuring structured data handling, real-time feedback, and application state management. Highlights strong programming fundamentals and application logic. |
-| 8 | [RandomUser Explorer — API Data Application](https://github.com/orbu13/Preplay-randomUserGenerator-_fetching) | Built an interactive application that fetches and displays user data from an external API. Reinforces skills in asynchronous JavaScript, JSON processing, and dynamic DOM manipulation. |
-| 9 | [StarWars Data Explorer — API Application](https://github.com/orbu13/Preplay-starWar_API) | Developed an API-driven application that retrieves and organizes structured data from an external source. Demonstrates clean data handling and frontend rendering logic. |
-| 10 | [Users API — Backend Data Service](https://github.com/orbu13/JhonBryce-users_API) | Built a backend-focused RESTful API for managing user data, highlighting server-side routing, data structuring, and application architecture fundamentals. |
+---
+
+## Projects
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1 | [JB Connect — Full-Stack Web Application](https://github.com/orbu13/JhonBryce-fullStack-finalProject) | Full-stack web application integrating frontend interface, backend API, and structured database. Demonstrates RESTful API design, authentication handling, and client-server architecture. |
+| 2 | [PetCare Platform — Full-Stack Application](https://github.com/orbu13/Preplay-front-backEND_petApplication) | Web application with clear frontend-backend separation, structured data flow, and maintainable system architecture. |
+| 3 | [Countries Insights — API Data Visualization App](https://github.com/orbu13/Preplay-CountriesAPI-chart) | Application that retrieves country data from external APIs and renders dynamic visualizations in the browser using asynchronous JavaScript. |
+| 4 | [CoinList — Interactive Crypto Dashboard](https://github.com/orbu13/CoinList-SchoolProject-ForGalAmoyal) | Responsive dashboard consuming real-time cryptocurrency APIs and presenting structured data through an interactive UI. |
+| 5 | [MovieSeat — Interactive Booking System](https://github.com/orbu13/Udemy-MovieSeatBokking) | Interactive booking interface implementing dynamic seat selection, pricing logic, and persistent application state. |
+| 6 | [NewsFetch — Real-Time API Integration App](https://github.com/orbu13/Prepley-newsFetching_API) | Application that retrieves and renders live news data from external APIs, demonstrating asynchronous workflows and structured data handling. |
+| 7 | [GuessTheWord — JavaScript Game](https://github.com/orbu13/Preplay-guessTheWord_API) | Browser-based game implementing structured logic, real-time feedback, and state management principles. |
+| 8 | [RandomUser Explorer — API Data Application](https://github.com/orbu13/Preplay-randomUserGenerator-_fetching) | Application that fetches and displays user data from an external API, demonstrating JSON processing and DOM manipulation. |
+| 9 | [StarWars Data Explorer — API Application](https://github.com/orbu13/Preplay-starWar_API) | API-driven application retrieving and organizing structured data for frontend rendering. |
+| 10 | [Users API — Backend Data Service](https://github.com/orbu13/JhonBryce-users_API) | RESTful backend API implementing routing, data management, and server-side architecture fundamentals. |
